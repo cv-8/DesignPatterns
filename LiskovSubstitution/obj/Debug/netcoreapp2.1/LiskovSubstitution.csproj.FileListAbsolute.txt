@@ -1,0 +1,11 @@
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\bin\Debug\netcoreapp2.1\LiskovSubstitution.deps.json
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\bin\Debug\netcoreapp2.1\LiskovSubstitution.runtimeconfig.json
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\bin\Debug\netcoreapp2.1\LiskovSubstitution.runtimeconfig.dev.json
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\bin\Debug\netcoreapp2.1\LiskovSubstitution.dll
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\bin\Debug\netcoreapp2.1\LiskovSubstitution.pdb
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.csprojAssemblyReference.cache
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.AssemblyInfo.cs
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.dll
+C:\_JCDev\Learning\DesignPatterns\LiskovSubstitution\obj\Debug\netcoreapp2.1\LiskovSubstitution.pdb
