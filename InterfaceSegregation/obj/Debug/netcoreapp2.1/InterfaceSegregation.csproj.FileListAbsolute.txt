@@ -1,0 +1,4 @@
+C:\_JCDev\Learning\DesignPatterns\InterfaceSegregation\obj\Debug\netcoreapp2.1\InterfaceSegregation.csprojAssemblyReference.cache
+C:\_JCDev\Learning\DesignPatterns\InterfaceSegregation\obj\Debug\netcoreapp2.1\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\_JCDev\Learning\DesignPatterns\InterfaceSegregation\obj\Debug\netcoreapp2.1\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\_JCDev\Learning\DesignPatterns\InterfaceSegregation\obj\Debug\netcoreapp2.1\InterfaceSegregation.AssemblyInfo.cs
