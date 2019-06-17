@@ -67,7 +67,10 @@ namespace DotNetDesignPatternDemos.SOLID.DependencyInversionPrinciple
         WriteLine($"John has a child called {p.Name}");
       }
     }
+  }
 
+  public class Program
+  {
     static void Main(string[] args)
     {
       var parent = new Person {Name = "John"};

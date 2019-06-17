@@ -1,0 +1,11 @@
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.csprojAssemblyReference.cache
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.csproj.CoreCompileInputs.cache
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.AssemblyInfoInputs.cache
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.AssemblyInfo.cs
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\bin\Debug\netcoreapp2.1\CodingExercise.deps.json
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\bin\Debug\netcoreapp2.1\CodingExercise.runtimeconfig.json
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\bin\Debug\netcoreapp2.1\CodingExercise.runtimeconfig.dev.json
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\bin\Debug\netcoreapp2.1\CodingExercise.dll
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\bin\Debug\netcoreapp2.1\CodingExercise.pdb
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.dll
+C:\_JCDev\Learning\DesignPatterns\Builder\CodingExercise\obj\Debug\netcoreapp2.1\CodingExercise.pdb
