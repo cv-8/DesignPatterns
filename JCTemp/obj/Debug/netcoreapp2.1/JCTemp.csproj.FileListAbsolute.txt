@@ -1,0 +1,11 @@
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.csprojAssemblyReference.cache
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.csproj.CoreCompileInputs.cache
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.AssemblyInfoInputs.cache
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.AssemblyInfo.cs
+C:\_JCDev\Learning\DesignPatterns\JCTemp\bin\Debug\netcoreapp2.1\JCTemp.deps.json
+C:\_JCDev\Learning\DesignPatterns\JCTemp\bin\Debug\netcoreapp2.1\JCTemp.runtimeconfig.json
+C:\_JCDev\Learning\DesignPatterns\JCTemp\bin\Debug\netcoreapp2.1\JCTemp.runtimeconfig.dev.json
+C:\_JCDev\Learning\DesignPatterns\JCTemp\bin\Debug\netcoreapp2.1\JCTemp.dll
+C:\_JCDev\Learning\DesignPatterns\JCTemp\bin\Debug\netcoreapp2.1\JCTemp.pdb
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.dll
+C:\_JCDev\Learning\DesignPatterns\JCTemp\obj\Debug\netcoreapp2.1\JCTemp.pdb
